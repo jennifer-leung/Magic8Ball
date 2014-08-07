@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic8Ball</string>
+    <string name="action_settings">Settings</string>
+    <string name="ask_title">Ask the Magic 8 Ball a question</string>
+    <string name="touch_title">Touch or Shake the Magic 8-Ball for answer</string>
+    
+    <string-array name="prediction_array">
+        <item>Outlook uncertain</item>
+        <item>Probably yes</item>
+        <item>No way</item>
+        <item>It is certain</item>
+        <item>Not likely</item>
+        <item>Reply hazy</item>
+        <item>Maybe</item>
+        <item>Without a doubt</item>
+    </string-array>
+
+</resources>
